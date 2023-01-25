@@ -5,7 +5,7 @@ function convertTimeToSeconds() {
     return (hours * 3600) + (minutes * 60) + seconds;
   }
   
-  // Example usage
+  // call the decimal value
   var totalSeconds = convertTimeToSeconds();
   console.log("Nilai desimalnya adalah " + totalSeconds);
   
