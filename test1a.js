@@ -9,6 +9,6 @@ function convertSecondsToTime() {
     console.log("Jumlah detik: " + remainingSeconds);
   }
   
-  // memanggil number of seconds
+  // call number of seconds
   convertSecondsToTime();
   
